@@ -1,0 +1,1 @@
+msg * Only lower CASE characters are valid !!!!!
