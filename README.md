@@ -18,3 +18,5 @@ IF "%Password%" == "MyPasswordWrittenHere"
 Then He/She can easily access my **Personal data**. So, I decided to modify it a bit. So, I created **Locker 2.0** and there may be lots of unnecessary lines of code. It may contain Some **Bugs** as well, but you should know that it was built when I didn’t know anything about **batch programming**.
 
 [Read Full Article](https://www.thebateam.org/2020/02/locker-2-0-by-kvc/)
+
+YOUTUBE LINK- [Locker 2.0](https://www.youtube.com/watch?v=WKzhltP0Q3A)
